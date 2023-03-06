@@ -2,6 +2,7 @@
 home: true
 title: 首页
 heroImage: /images/logo-300.svg
+heroHeight: 240
 actions:
   - text: 快速上手
     link: /get-started/

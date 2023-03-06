@@ -1,6 +1,6 @@
 # 贡献列表
 
-## 赞助商
+## 💎 赞助商
 
 ### 钻石赞助商
 
@@ -10,20 +10,15 @@
 
 - [LEGALGEEK](https://blog.legalhub.cn/about/index.html)
 - [XXXX 科技有限公司]()
+- [XXXX 律师事务所]()
 
-### 银牌赞助商
-
-- [xxxx]()
-- [xxxxx]()
-- [xxx]()
-
-## 内容贡献
+## 🎉 内容贡献
 
 - [xxxx]()
 - [xxxxx]()
 - [xxx]()
 
-## 技术支持
+## 👨🏻‍💻 技术支持
 
 - [LEGALGEEK](https://blog.legalhub.cn/about/index.html)
 - [XXXX 科技有限公司]()
