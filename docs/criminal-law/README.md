@@ -1,13 +1,13 @@
 ---
 lang: zh-CN
-title: 民法
+title: 刑法
 description: 页面的描述
 ---
 
-# 民法篇 （civil_law）
+# 刑法（ Criminal law ）
 
 ## 结构介绍
 
-按照民法典的结构进行编排
+按照刑法理论结构进行编排
 
 ![作者](./images/avatar.jpeg)

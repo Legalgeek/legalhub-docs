@@ -1,10 +1,10 @@
 ---
 lang: zh-CN
-title: 刑法
+title: 民法
 description: 页面的描述
 ---
 
-# 刑法（civil_law）
+# 民法篇 （Civil law）
 
 ## 结构介绍
 

@@ -20,60 +20,36 @@ features:
 footer: CC BY-NC-SA 4.0 |  © 2023 LegalGeek
 ---
 
-### 快速参与该项目
+### 如何参与该项目
 
 <CodeGroup>
-  <CodeGroupItem title="Github" active>
+<CodeGroupItem title="1:在线编辑"  active>
 
-```bash
-# 在你的项目中安装
-pnpm add -D vuepress@next @vuepress/client@next vue
-
-# 新建一个 markdown 文件
-echo '# Hello VuePress' > README.md
+```sh
+# 使用在线编辑器
+https://xxxxx
 
 # 开始写作
-pnpm vuepress dev
+xxxxx
 
-# 构建静态文件
-pnpm vuepress build
-```
-
-  </CodeGroupItem>
-
-  <CodeGroupItem title="YARN">
-
-```bash
-# 在你的项目中安装
-yarn add -D vuepress@next
-
-# 新建一个 markdown 文件
-echo '# Hello VuePress' > README.md
-
-# 开始写作
-yarn vuepress dev
-
-# 构建静态文件
+# 提交并等待合并
 yarn vuepress build
 ```
 
-  </CodeGroupItem>
+</CodeGroupItem>
 
-  <CodeGroupItem title="NPM">
+<CodeGroupItem title="2:通过代码">
 
 ```bash
-# 在你的项目中安装
-npm install -D vuepress@next
+# 从Github 获取项目代码
+git clone XXXXX
 
-# 新建一个 markdown 文件
-echo '# Hello VuePress' > README.md
+# 新建一个分支
+git xxxx
 
-# 开始写作
-npx vuepress dev
-
-# 构建静态文件
-npx vuepress build
+# 增加、修正内容
+xxxx
 ```
 
-  </CodeGroupItem>
+</CodeGroupItem>
 </CodeGroup>
