@@ -1,36 +1,79 @@
-lang: zh-CN
-title: 项目介绍
-description: 页面的描述
+---
+home: true
+title: 首页
+heroImage: /images/logo-300.svg
+actions:
+  - text: 快速上手
+    link: /get-started/
+    type: primary
+  - text: 项目简介
+    link: /introduction/
+    type: secondary
+features:
+  - title: 简约至上
+    details: 轻量优雅的交互方式，让您快速掌握，专注于知识内容本身。
+  - title: 持续更新
+    details: 通过搭建内容生产、上线、更新的自动化流程，让知识保持最新。
+  - title: 保持开放
+    details: 开源项目，支持非商业化利用，欢迎为网站的可持续发展作出贡献。
 
+footer: CC BY-NC-SA 4.0 |  © 2023 LegalGeek
 ---
 
-[民法篇](./civil_law/README.md)
-[刑法篇](./criminal_law/README.md)
+### 快速参与该项目
 
-# 项目介绍
+<CodeGroup>
+  <CodeGroupItem title="Github" active>
 
-[[toc]]
+```bash
+# 在你的项目中安装
+pnpm add -D vuepress@next @vuepress/client@next vue
 
-## 一个重要的基础工程
+# 新建一个 markdown 文件
+echo '# Hello VuePress' > README.md
 
-![logo](/images/logo.png)
+# 开始写作
+pnpm vuepress dev
 
-## 为什么需要这样一个网站
-
-## 如何能实现这样的一个网站
-
-一加一等于： {{ 1 + 1 }}
-
-## 项目团队如何维护
-
-```ts{1,6-8}
-import { defaultTheme, defineUserConfig } from 'vuepress'
-
-export default defineUserConfig({
-  title: '你好， VuePress',
-
-  theme: defaultTheme({
-    logo: 'https://vuejs.org/images/logo.png',
-  }),
-})
+# 构建静态文件
+pnpm vuepress build
 ```
+
+  </CodeGroupItem>
+
+  <CodeGroupItem title="YARN">
+
+```bash
+# 在你的项目中安装
+yarn add -D vuepress@next
+
+# 新建一个 markdown 文件
+echo '# Hello VuePress' > README.md
+
+# 开始写作
+yarn vuepress dev
+
+# 构建静态文件
+yarn vuepress build
+```
+
+  </CodeGroupItem>
+
+  <CodeGroupItem title="NPM">
+
+```bash
+# 在你的项目中安装
+npm install -D vuepress@next
+
+# 新建一个 markdown 文件
+echo '# Hello VuePress' > README.md
+
+# 开始写作
+npx vuepress dev
+
+# 构建静态文件
+npx vuepress build
+```
+
+  </CodeGroupItem>
+</CodeGroup>
