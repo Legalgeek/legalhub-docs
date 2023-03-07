@@ -1,7 +1,11 @@
 ---
 lang: zh-CN
 title: 刑法分则
-description: 页面的描述
+description: 刑法分则的术语
 ---
 
-# 民法总则
+# 刑法分则
+
+::: tip
+尚未完成
+:::
