@@ -2,3 +2,7 @@ node_modules
 .temp
 .cache
 docs/.vuepress/dist
+.auth
+Readme.md
+.DS_Store
+./docs/.vuepress/.DS_Store

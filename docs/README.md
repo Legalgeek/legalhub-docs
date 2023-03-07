@@ -14,7 +14,7 @@ actions:
     type: secondary
 features:
   - title: 简约至上
-    details: 轻量优雅的交互方式，让您快速掌握，专注于法律知识本身。
+    details: 轻量优雅的交互方式，降低上手难度，专注于法律知识本身。
   - title: 持续更新
     details: 通过搭建内容生产、更新自动化流程，保持知识内容持续更新。
   - title: 保持开放
