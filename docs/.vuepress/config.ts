@@ -9,10 +9,15 @@ export default defineUserConfig({
 
   theme: defaultTheme({
     // 在这里进行配置
-    logo: "/images/logo.png",
+    logo: "/images/logo-300-w.svg",
+    logoDark: "/images/logo-300-b.svg",
     navbar: [
       // 字符串 - 页面文件路径
-      "/introduction/README.md",
+      
+      {
+        text: "项目简介",
+        link: "/introduction/",
+      },
 
       // NavbarGroup
       {
@@ -44,6 +49,16 @@ export default defineUserConfig({
             "/civil-law/hunyinjiating.md",
             "/civil-law/jicheng.md",
             "/civil-law/qinquanzeren.md",
+          ],
+        },
+      ],
+      "/startup/": [
+        {
+          text: "快速上手",
+          children: [
+            "/civil-law/",
+            "/criminal-law/",
+            "/jurisprudence/",
           ],
         },
       ],

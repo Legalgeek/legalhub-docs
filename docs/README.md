@@ -1,8 +1,10 @@
 ---
 home: true
 title: 首页
-heroImage: /images/logo-300.svg
-heroHeight: 240
+heroImage: /images/logo-300-w.svg
+heroImageDark: /images/logo-300-b.svg
+
+heroHeight: 180
 actions:
   - text: 快速上手
     link: /startup/
