@@ -18,7 +18,7 @@ export default defineUserConfig({
       {
         text: "术语列表",
         children: [
-          "/idea/",
+          "/startup/",
           "/civil-law/",
           "/criminal-law/",
           "/jurisprudence/",
@@ -26,7 +26,7 @@ export default defineUserConfig({
       },
       // NavbarItem
       {
-        text: "贡献列表",
+        text: "参与项目",
         link: "/contributing/",
       },
       // 字符串 - 页面文件路径
