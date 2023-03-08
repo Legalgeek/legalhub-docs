@@ -3,9 +3,9 @@
 <circle cx="150" cy="150" r="149" fill="#F5F5F5"/>
 </mask>
 <g mask="url(#mask0_25_14)">
-<circle cx="150" cy="150" r="149" fill="#5C5C5C"/>
+<circle cx="150" cy="150" r="149" fill="#23262F" fill-opacity="0.85"/>
 <circle cx="165" cy="150.333" r="75" fill="#52CD7A"/>
-<circle cx="165" cy="150.333" r="33.3333" fill="#5C5C5C"/>
+<circle cx="165" cy="150.333" r="33.3333" fill="#42444D"/>
 <rect y="209.649" width="161.667" height="41.6667" transform="rotate(-45 0 209.649)" fill="#52CD7A"/>
 <rect x="29.4628" y="62" width="161.667" height="41.6667" transform="rotate(45 29.4628 62)" fill="#52CD7A"/>
 </g>
