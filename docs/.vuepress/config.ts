@@ -65,7 +65,7 @@ export default defineUserConfig({
       "/criminal-law/": [
         {
           text: "刑法",
-          children: ["/criminal-law/zongze.md", "/criminal-law/fenze.md"],
+          children: ["/criminal-law/zongze.md", "/criminal-law/fenze-c1.md", "/criminal-law/fenze-c2.md", "/criminal-law/fenze-c3.md", "/criminal-law/fenze-c4.md", "/criminal-law/fenze-c5.md", "/criminal-law/fenze-c6.md", "/criminal-law/fenze-c7.md", "/criminal-law/fenze-c8.md", "/criminal-law/fenze-c9.md", "/criminal-law/fenze-c10.md"],
         },
       ],
     },
@@ -97,9 +97,9 @@ export default defineUserConfig({
   }),
   plugins: [
     docsearchPlugin({
-    appId: '34YFD9IUQ2',
-    apiKey: '9a9058b8655746634e01071411c366b8',
-    indexName: 'vuepress',
+    appId: 'EC6G1N6CHD',
+    apiKey: '5a92479103978f4a6d9edeb23feee731',
+    indexName: 'terms-legalhub',
     }),
   ],
 });
