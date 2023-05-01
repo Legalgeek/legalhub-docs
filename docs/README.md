@@ -1,19 +1,19 @@
 ---
 home: true
-title: 首页
-heroImage: /images/logo-300-w.svg
-heroImageDark: /images/logo-300-b.svg
+title: 文档
+heroImage: /images/logo-300-g.svg
+heroImageDark: /images/logo-300-g.svg
 
 heroHeight: 180
 actions:
-  - text: 快速上手
-    link: /startup/
+  - text: 阅读文档
+    link: /cat/
     type: primary
-  - text: 项目简介
-    link: /introduction/
+  - text: 参与项目
+    link: /contributing/
     type: secondary
 features:
-  - title: 简约至上
+  - title: 简洁优雅
     details: 轻量优雅的交互方式，降低上手难度，专注于法律知识本身。
   - title: 持续更新
     details: 通过搭建内容生产、更新自动化流程，保持知识内容持续更新。

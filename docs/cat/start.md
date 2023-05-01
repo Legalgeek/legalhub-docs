@@ -1,0 +1,36 @@
+---
+lang: zh-CN
+title: ⚡️ 快速入手
+description: 页面的描述
+---
+
+# Cat 简明教程
+
+## 1、关于RSS
+
+RSS（Really Simple Syndication）是一种用于发布和订阅 Web 内容的标准格式，通常用于博客、新闻网站等实时更新内容的网站。
+
+通过 RSS，网站可以将其发布的文章、新闻、博客等内容以 XML 格式的数据流形式提供，用户可以通过 RSS 阅读器（或称为聚合器）订阅这些数据流，并随时得到最新的更新。RSS 阅读器通常会自动检查订阅的 RSS 源是否有更新，如果有，则会提醒用户并展示更新的内容。
+
+RSS 的优点在于它可以帮助用户快速地获得感兴趣的信息，同时也方便了网站管理员的内容发布和推广。由于 RSS 格式标准化、易于处理和转换，因此很多网站和应用程序都支持 RSS 订阅和输出。
+
+需要注意的是，虽然 RSS 在过去曾经非常流行和广泛使用，但现在随着社交媒体和移动应用的普及，它的使用已经逐渐减少。不过，仍有一些重要的网站和博客仍在提供 RSS 订阅服务，同时也有不少一些 RSS 阅读器和客户端应用仍在使用中。
+
+## 2、关于CAT
+
+[CAT](https://cat.legalhub.cn/) 是一款专注于法律垂直领域的 RSS 生成工具，目标是实现法律领域内关键资讯信息的 RSS 化。
+
+愿景：希望在算法横行的今天，你有机会选择自己关注什么内容、有能力及时感知信息的存在和变化，并可以轻松地获取它们。
+
+
+
+## 3、使用方法
+
+点击左侧目录：**已支持网站**，可以查看已支持内容的RSS链接；
+
+你可以选择任意一款RSS阅读器使用这些链接，例如：
+
+- Windows 、macOS 用户，可以考虑 [Fluent Reader](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=baidu&wd=Fluent%20Reader) ；
+
+- macOS 和 iOS 用户推荐 [Reeder5](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=baidu&wd=REEDER5) ;  
+- Android 生态比较丰富，可以使用[关键词](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=baidu&wd=%E5%AE%89%E5%8D%93rss%E8%BD%AF%E4%BB%B6)搜索。

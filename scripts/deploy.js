@@ -4,7 +4,7 @@ let path = require("path");
 let client = new Client();
 const config = require("../.auth/ftp.json");
 const localPath = path.resolve(__dirname, "../docs/.vuepress/dist");
-const remotePath = "/home/ubuntu/legal-terms";
+const remotePath = "/home/ubuntu/legalhub-docs";
 const main = async () => {
   try {
     await client.connect(config);

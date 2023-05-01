@@ -1,7 +1,7 @@
 {
-  "name": "legal-terms-project",
+  "name": "legalhub-docs",
   "version": "1.0.0",
-  "description": "Glossary of Legal Terms , for Chinese",
+  "description": "all docs for legalhub project",
   "main": "index.js",
   "scripts": {
     "docs:dev": "vuepress dev docs",

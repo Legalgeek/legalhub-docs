@@ -4,29 +4,27 @@ import { docsearchPlugin } from '@vuepress/plugin-docsearch'
 
 export default defineUserConfig({
   lang: "zh-CN",
-  title: "中文法律术语汇编",
-  description: "Glossary of Chinese Legal Terms",
+  title: "LegalHub 文档中心",
+  description: "Collection of Chinese Legal Knowledge Resources",
 
   theme: defaultTheme({
     // 在这里进行配置
-    logo: "/images/logo-300-w.svg",
-    logoDark: "/images/logo-300-b.svg",
+    logo: "/images/logo-300-g.svg",
+    logoDark: "/images/logo-300-g.svg",
     navbar: [
       // 字符串 - 页面文件路径
       
-      {
-        text: "项目简介",
-        link: "/introduction/",
-      },
+      // {
+      //   text: "项目简介",
+      //   link: "/introduction/",
+      // },
 
       // NavbarGroup
       {
-        text: "术语列表",
+        text: "文档列表",
         children: [
-          "/startup/",
-          "/civil-law/",
-          "/criminal-law/",
-          "/jurisprudence/",
+          "/cat/",
+          // "/legis/",
         ],
       },
       // NavbarItem
@@ -38,17 +36,23 @@ export default defineUserConfig({
       // '/contributing.md',
     ],
     sidebar: {
-      "/civil-law/": [
+      "/cat/": [
         {
-          text: "民法术语",
+          text: "Cat 文档",
           children: [
-            "/civil-law/zongze.md",
-            "/civil-law/wuquan.md",
-            "/civil-law/hetong.md",
-            "/civil-law/rengequan.md",
-            "/civil-law/hunyinjiating.md",
-            "/civil-law/jicheng.md",
-            "/civil-law/qinquanzeren.md",
+            "/cat/start.md",
+            "/cat/list.md",
+            "/cat/tips.md"
+          ],
+        },
+      ],
+      "/legis/": [
+        {
+          text: "Legis 文档（施工中）",
+          children: [
+            "/legis/start.md",
+            "/legis/list.md",
+            "/legis/tips.md"
           ],
         },
       ],
@@ -56,18 +60,11 @@ export default defineUserConfig({
         {
           text: "快速上手",
           children: [
-            "/civil-law/",
-            "/criminal-law/",
-            "/jurisprudence/",
+            "/cat/",
           ],
         },
       ],
-      "/criminal-law/": [
-        {
-          text: "刑法",
-          children: ["/criminal-law/zongze.md", "/criminal-law/fenze-c1.md", "/criminal-law/fenze-c2.md", "/criminal-law/fenze-c3.md", "/criminal-law/fenze-c4.md", "/criminal-law/fenze-c5.md", "/criminal-law/fenze-c6.md", "/criminal-law/fenze-c7.md", "/criminal-law/fenze-c8.md", "/criminal-law/fenze-c9.md", "/criminal-law/fenze-c10.md"],
-        },
-      ],
+      
     },
     locales:{
       '/': {
