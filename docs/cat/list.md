@@ -10,7 +10,7 @@ description: 页面的描述
 
 <br/>
 
-没有找到你常看的？[点击这里提醒开发者添加](https://www.wjx.cn/vm/rvf994Z.aspx# )
+没有找到你常看的？[点击这里提醒开发者添加](https://wj.qq.com/s2/12268734/5d59/ )
 
 
 ## 1、法规类
@@ -97,4 +97,4 @@ description: 页面的描述
 
 <br/>
 
-没有找到你常看的？[点击这里提醒开发者添加](https://www.wjx.cn/vm/rvf994Z.aspx# )
+没有找到你常看的？[点击这里提醒开发者添加](https://wj.qq.com/s2/12268734/5d59/ )
