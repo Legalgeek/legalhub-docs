@@ -6,12 +6,11 @@ description: 页面的描述
 
 # CAT 已经连接了这些内容 🎉
 
-> 最近一次更新：2023年5月1日
+> 最近一次更新：2023 年 5 月 1 日
 
 <br/>
 
-没有找到你常看的？[点击这里提醒开发者添加](https://wj.qq.com/s2/12268734/5d59/ )
-
+没有找到你常看的？[点击这里提醒开发者添加](https://wj.qq.com/s2/12268734/5d59/)
 
 ## 1、法规类
 
@@ -29,14 +28,12 @@ description: 页面的描述
 
 已经支持的案例更新信息 RSS 包含：
 
-| 案例类别     | 订阅地址                                | 测试                                        |
-| :------------------ | :--------------------------------------- | :------------------------------------------- |
+| 案例类别            | 订阅地址                                | 测试                                        |
+| :------------------ | :-------------------------------------- | :------------------------------------------ |
 | 民事案件·中国法院网 | https://cat.legalhub.cn/chinacourt/msaj | [](https://cat.legalhub.cn/chinacourt/msaj) |
 | 刑事案件·中国法院网 | https://cat.legalhub.cn/chinacourt/xsaj | [](https://cat.legalhub.cn/chinacourt/xsaj) |
 | 行政案件·中国法院网 | https://cat.legalhub.cn/chinacourt/xzaj | [](https://cat.legalhub.cn/chinacourt/xzaj) |
 | 典型案例·中国法院网 | https://cat.legalhub.cn/chinacourt/dxal | [](https://cat.legalhub.cn/chinacourt/dxal) |
-
-
 
 ## 3、期刊类
 
@@ -66,8 +63,9 @@ description: 页面的描述
 | 《法学杂志》           | https://cat.legalhub.cn/nssd/qikan/82208X | [](https://cat.legalhub.cn/nssd/qikan/82208X) |
 | 《国家检察官学院学报》 | https://cat.legalhub.cn/nssd/qikan/82198X | [](https://cat.legalhub.cn/nssd/qikan/82198X) |
 | 《行政法学研究》       | https://cat.legalhub.cn/nssd/qikan/82582X | [](https://cat.legalhub.cn/nssd/qikan/82582X) |
-
-
+| 《中国政法大学学报》   | https://cat.legalhub.cn/nssd/qikan/89413X | [](https://cat.legalhub.cn/nssd/qikan/89413X) |
+| 《中国应用法学》       | https://cat.legalhub.cn/nssd/qikan/84471X | [](https://cat.legalhub.cn/nssd/qikan/84471X) |
+| 《中国检察官》         | https://cat.legalhub.cn/nssd/qikan/80352A | [](https://cat.legalhub.cn/nssd/qikan/80352A) |
 
 ## 4、文章类
 
@@ -79,22 +77,16 @@ description: 页面的描述
 | 刑事研究·中国法院网 | https://cat.legalhub.cn/chinacourt/xsyj | [](https://cat.legalhub.cn/chinacourt/xsyj) |
 | 行政研究·中国法院网 | https://cat.legalhub.cn/chinacourt/xzyj | [](https://cat.legalhub.cn/chinacourt/xzyj) |
 
-
-
-
-
 ## 5、通用类
 
 已经支持的通用类更新信息 RSS 包含：
 
 | 信息类别       | 订阅地址                                            | 测试                                                    |
 | :------------- | :-------------------------------------------------- | :------------------------------------------------------ |
-| XX的微博       | https://cat.legalhub.cn/weibo/user/7759431196       | [](https://cat.legalhub.cn/weibo/user/7759431196)       |
+| XX 的微博      | https://cat.legalhub.cn/weibo/user/7759431196       | [](https://cat.legalhub.cn/weibo/user/7759431196)       |
 | 知乎日报       | https://cat.legalhub.cn/zhihu/daily                 | [](https://cat.legalhub.cn/zhihu/daily)                 |
 | 36Kr -科技板块 | https://cat.legalhub.cn/36kr/information/technology | [](https://cat.legalhub.cn/36kr/information/technology) |
 
-
-
 <br/>
 
-没有找到你常看的？[点击这里提醒开发者添加](https://wj.qq.com/s2/12268734/5d59/ )
+没有找到你常看的？[点击这里提醒开发者添加](https://wj.qq.com/s2/12268734/5d59/)
