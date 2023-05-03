@@ -28,9 +28,9 @@ RSS 的优点在于它可以帮助用户快速地获得感兴趣的信息，同�
 
 ## 3、使用步骤
 
-点击左侧目录：**已支持网站**，可以查看已支持内容的 RSS 链接；
+首先，点击左侧目录：**已支持网站**，可以查看已支持内容的 RSS 链接；
 
-你可以选择任意一款 RSS 阅读器使用这些链接，例如：
+然后，你可以选择任意一款 RSS 阅读器直接使用这些链接，例如：
 
 - Windows 、macOS 用户，可以考虑 [Fluent Reader](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=baidu&wd=Fluent%20Reader) ；
 
@@ -42,17 +42,3 @@ RSS 的优点在于它可以帮助用户快速地获得感兴趣的信息，同�
 <p align="center">
 <img src="https://docs.legalhub.cn/images/result01.png" >
 </p>
-
-## 4、高阶玩法
-
-在用户较多的情况下，该项目服务器可能触发源网站的反爬机制，导致服务不稳定。
-
-如果你熟悉 Docker 并具有网站搭建经验，建议自己部署该项目，参考一键脚本：
-
-```shell
-docker run -d --name legalhub_cat -p 1200:1200 legalgeek/cat:1.0
-```
-
-以上命令当中最后的`1.0`仅作示范，项目最新镜像 tag 见：[https://hub.docker.com/r/legalgeek/cat/tags](https://hub.docker.com/r/legalgeek/cat/tags)
-
-成功运行后，即可在你服务器的 1200 端口查看到与[这里](https://cat.legalhub.cn/)相同的提示信息。

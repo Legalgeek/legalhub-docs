@@ -6,7 +6,7 @@ description: 页面的描述
 
 # CAT 已经连接了这些内容 🎉
 
-> 最近一次更新：2023 年 5 月 1 日
+> 最近一次更新：2023 年 5 月 3 日
 
 <br/>
 
@@ -66,6 +66,11 @@ description: 页面的描述
 | 《中国政法大学学报》   | https://cat.legalhub.cn/nssd/qikan/89413X | [](https://cat.legalhub.cn/nssd/qikan/89413X) |
 | 《中国应用法学》       | https://cat.legalhub.cn/nssd/qikan/84471X | [](https://cat.legalhub.cn/nssd/qikan/84471X) |
 | 《中国检察官》         | https://cat.legalhub.cn/nssd/qikan/80352A | [](https://cat.legalhub.cn/nssd/qikan/80352A) |
+| 《知识产权》         | https://cat.legalhub.cn/nssd/qikan/96792A | [](https://cat.legalhub.cn/nssd/qikan/96792A) |
+| 《电子知识产权》         | https://cat.legalhub.cn/nssd/qikan/97762X | [](https://cat.legalhub.cn/nssd/qikan/97762X) |
+
+
+
 
 ## 4、文章类
 

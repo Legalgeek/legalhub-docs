@@ -94,9 +94,9 @@ export default defineUserConfig({
   }),
   plugins: [
     docsearchPlugin({
-    appId: 'EC6G1N6CHD',
-    apiKey: '5a92479103978f4a6d9edeb23feee731',
-    indexName: 'terms-legalhub',
+    appId: '25U0QLGFN0',
+    apiKey: 'caeca74829a27ee00f47dcfd9975ad55',
+    indexName: 'legalhub',
     }),
   ],
 });
